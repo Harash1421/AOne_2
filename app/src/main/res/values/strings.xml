@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity Result</string>
+    <string name="Camera">Camera</string>
+    <string name="Google">Google</string>
+    <string name="Search">Search</string>
+    <string name="Welcome">Welcome To Activity Result Project</string>
+
+</resources>
